@@ -1,0 +1,451 @@
+{
+	"name": "Streadata.io API Gallery - Stocks",
+	"description": "This is a repository of stocks APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/stocks.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://stocks.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "TradeKing",
+			"x-api-slug": "tradeking",
+			"description": "Log in to your Ally Invest account and manage your online stock and options trades. Gain access to research, tools, calculators, educational content, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/263-tradeking.jpg",
+			"humanURL": "http://tradeking.com",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/tradeking/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xignite",
+			"x-api-slug": "xignite",
+			"description": "Financial market data on-demand. Xignite financial Web services help build smarter websites and applications in minutes with zero up-front investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png",
+			"humanURL": "http://www.xignite.com",
+			"baseURL": "https://www.xignite.com/xVWAP.json/XigniteVWAP",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/xignite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Service Objects",
+			"x-api-slug": "service-objects",
+			"description": "With our suite of data verification APIs for phone, email, address and more, you can keep your businesss database clean, accurate, and up to date.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/371-service-objects.jpg",
+			"humanURL": "http://www.serviceobjects.com/",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/service-objects/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StrikeIron",
+			"x-api-slug": "strikeiron",
+			"description": "StrikeIron is the leader in Data-as-a-Service (DaaS), delivering data quality and communications solutions via our cloud platform IronCloud. We provide address verification, email verification, phone validation, phone append, SMS text messaging, and sales tax solutions to customers in a variety of markets. Our solutions are delivered as Web services that can be easily integrated into any application or system. Additionally, our solutions are pre-integrated into leading platforms like: Salesforce.com, Magento, Informatica, Oracle CRM On-Demand, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/372-informatica.jpg",
+			"humanURL": "http://www.informatica.com",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/strikeiron/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Cutcaster",
+			"x-api-slug": "cutcaster",
+			"description": "Cutcaster sells pictures and clipart for use on websites, design projects, powerpoint presentations, blogs or anytime you need a unique image to tell your story.    Search our picture library via our lightning quick search engine, download comps, buy s...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/748-cutcaster.jpg",
+			"humanURL": "http://cutcaster.com",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/cutcaster/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FOREX.com",
+			"x-api-slug": "forex-com",
+			"description": "FOREX.com offers forex & metals trading with award winning trading platforms, tight spreads, quality executions, powerful trading tools & 24-hour live support",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/792-forex-com.jpg",
+			"humanURL": "http://www.forex.com/forex-api.html",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/forex-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StockTwits",
+			"x-api-slug": "stocktwits",
+			"description": "StockTwits is a real-time social network for investors and traders. Download our app and visit StockTwits.com.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/944-stocktwits.jpg",
+			"humanURL": "http://stocktwits.com",
+			"baseURL": ":///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/stocktwits/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "UK National Archives",
+			"x-api-slug": "uk-national-archives",
+			"description": "The National Archives (TNA) is a non-ministerial government department. Its parent department is the Department for Culture, Media and Sport of the United Kingdom of Great Britain and Northern Ireland. It is the official archive of the UK government and for England and Wales; and guardian of some of the nations most iconic documents, dating back more than 1,000 years. There are separate national archives for Scotland (the National Records of Scotland) and Northern Ireland (the Public Record Office of Northern Ireland).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/uk-national-archives.jpeg",
+			"humanURL": "http://discovery.nationalarchives.gov.uk/SearchUI/api.htm",
+			"baseURL": "https://api.gettyimages.com//",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/uk-national-archives/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Getty Images",
+			"x-api-slug": "getty-images",
+			"description": "Find high resolution royalty-free images, editorial stock photos, vector art, video footage clips and stock music licensing at the richest image search photo library online.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1013-getty-images.jpg",
+			"humanURL": "http://www.gettyimages.com/",
+			"baseURL": "https://api.gettyimages.com//",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/getty-images/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SixFinancial",
+			"x-api-slug": "sixfinancial",
+			"description": "SIX Financial Information aggregates data, directly and in real-time, from over 1500 worldwide sources, covering all the major trading venues. Its financial information comprises reference data, corporate actions, pricing and market data for around 11 ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1273-sixfinancial.jpg",
+			"humanURL": "http://www.six-financial-information.com/dfi/global/en/shared/offerings/products/data-delivery-products/apid.html",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/sixfinancial/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "moltin",
+			"x-api-slug": "moltin",
+			"description": "The comprehensive eCommerce API infrastructure for any platform. Moltin handles data storage and eCommerce logic in the cloud so that you can focus on creating great customer experiences.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/moltin-logo.png",
+			"humanURL": "https://moltin.com",
+			"baseURL": "https://api.moltin.com//",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/moltin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "StockFluence.com",
+			"x-api-slug": "stockfluence-com",
+			"description": "StockFluence.com provides financial sentiment analysis for investors to discover, react and respond to market opinions. We monitor (social) media channels and analyze the overall sentiment with our algorithms. Based on the sentiment, we make prediction...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2546-stockfluence-com.jpg",
+			"humanURL": "http://www.stockfluence.com/",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/stockfluence-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tradier",
+			"x-api-slug": "tradier",
+			"description": "Tradier is a financial services cloud provider that offers a groundbreaking solution to serve platform providers, developers and investors. The Tradier solution features an innovative set of fully hosted APIs, modules and out of the box tools that ar...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11434-tradier.jpg",
+			"humanURL": "https://tradier.com/",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/tradier/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Barchart",
+			"x-api-slug": "barchart",
+			"description": "Barchart.com is the leading provider of intraday stock and commodities real-time or delayed charts with powerful indicators and technical analysis.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/21632-www-barchart-com.jpg",
+			"humanURL": "https://www.barchart.com",
+			"baseURL": "https://marketdata.websol.barchart.com//",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/barchart/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Alpha Vantage",
+			"x-api-slug": "alpha-vantage",
+			"description": "Composed of a tight-knit community of researchers, engineers, and business professionals, Alpha Vantage Inc. is a leading provider of free APIs for realtime and historical data on stocks, physical currencies, and digital/crypto currencies. Our success is driven by rigorous research, cutting edge technology, and a disciplined focus on democratizing access to data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen Shot 2018-01-22 at 4.52.35 PM.png",
+			"humanURL": "https://www.alphavantage.co",
+			"baseURL": "https://www.alphavantage.co//",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/alpha-vantage/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Intrinio",
+			"x-api-slug": "intrinio",
+			"description": "Intelligent Data, On Demand. The financial data platform for developers, investors, students, and educators, with over 200 feeds including real-time, intraday, EOD, and international financial data available via REST API, WebSocket, CSV, Excel, and Goo...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png",
+			"humanURL": "http://www.intrinio.com",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/intrinio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TradeIt",
+			"x-api-slug": "tradeit",
+			"description": "The API infrastructure that links retail investors and app developers with any online financial broker.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28295-www-trade-it.jpg",
+			"humanURL": "https://blog.trade.it/",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/tradeit/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stockwatch",
+			"x-api-slug": "stockwatch",
+			"description": "Real-time stock market news and quotes, plus analytical tools, foreign exchange and specialty information. Professional-grade #MarketData services, since 1995.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28312-www-stockwatch-com.jpg",
+			"humanURL": "https://www.stockwatch.com",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/stockwatch/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stock Trak",
+			"x-api-slug": "stock-trak",
+			"description": "Stock Trak is the leading provider of virtual trading applications for university finance classes and trading rooms, high school business classes, and financial websites.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/st-logo.png",
+			"humanURL": "http://www.stocktrak.com",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/stock-trak/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SogoTrade",
+			"x-api-slug": "sogotrade",
+			"description": "At SogoTrade, we aim to decrease your risk while lowering your cost and maximizing your return. We seek to offer you the same product at a better price or a better product at the same price. At SogoTrade, we strive to be the best online brokerage firm in the Industry. You can take advantage of our state of the art Trading Platforms, Advanced Tools, Education Center and much more. There are many online brokers from which to choose. Give us a chance, and we believe you will see the difference. SogoTrade serves the independent self-directed investor. We believe that you &mdash; our client &mdash; are our greatest asset. Therefore, your interests come first and always. Our success comes from your ability to execute your decisions effectively using meaningful online trading platforms and market research tools &mdash; at a price that is the envy of the online investing industry.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28332-www-sogotrade-com.jpg",
+			"humanURL": "https://www.sogotrade.com",
+			"baseURL": "https:///",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/sogotrade/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Clover",
+			"x-api-slug": "clover",
+			"description": "Clover, a First Data company, builds the largest open-architecture point of sale solution aimed at small &amp; medium sized business owners. Our products are changing the consumer/merchant experience for the better, opening avenues for seamless customer-merchant interactions. There are five versions of Clover, including the Clover Station, Clover Mobile, Clover Mini, Clover Go, and Clover Flex. With Clover, First Data is aiming to create the largest open architecture operating system for commerce-enabling solutions and applications for business owners.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/clover-logo.png",
+			"humanURL": "https://www.clover.com",
+			"baseURL": "https:///merchants/https://api.clover.com",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/clover/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/plentymarkets/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xibo",
+			"x-api-slug": "xibo",
+			"description": "Xibo Digital Signage is a low-cost, high performance solution to launch your business, workplace or organisation into the future. Xibo doesn&rsquo;t just replicate print media, but actively increases engagement allowing you to deliver your message more effectively than ever before.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xibo-digital-signage-logo.jpeg",
+			"humanURL": "http://www.xibo.org.uk",
+			"baseURL": "https:////api",
+			"tags": "Stocks",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/xibo/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Stocks",
+	"include": [
+		{
+			"name": "TradeKing",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/tradeking/apis.yaml"
+		},
+		{
+			"name": "Xignite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/xignite/apis.yaml"
+		},
+		{
+			"name": "Service Objects",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/service-objects/apis.yaml"
+		},
+		{
+			"name": "StrikeIron",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/strikeiron/apis.yaml"
+		},
+		{
+			"name": "Cutcaster",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/cutcaster/apis.yaml"
+		},
+		{
+			"name": "FOREX.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/forex-com/apis.yaml"
+		},
+		{
+			"name": "StockTwits",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/stocktwits/apis.yaml"
+		},
+		{
+			"name": "UK National Archives",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/uk-national-archives/apis.yaml"
+		},
+		{
+			"name": "Getty Images",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/getty-images/apis.yaml"
+		},
+		{
+			"name": "SixFinancial",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/sixfinancial/apis.yaml"
+		},
+		{
+			"name": "moltin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/moltin/apis.yaml"
+		},
+		{
+			"name": "StockFluence.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/stockfluence-com/apis.yaml"
+		},
+		{
+			"name": "Tradier",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/tradier/apis.yaml"
+		},
+		{
+			"name": "Barchart",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/barchart/apis.yaml"
+		},
+		{
+			"name": "Alpha Vantage",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/alpha-vantage/apis.yaml"
+		},
+		{
+			"name": "Intrinio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/intrinio/apis.yaml"
+		},
+		{
+			"name": "TradeIt",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/tradeit/apis.yaml"
+		},
+		{
+			"name": "Stockwatch",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/stockwatch/apis.yaml"
+		},
+		{
+			"name": "Stock Trak",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/stock-trak/apis.yaml"
+		},
+		{
+			"name": "SogoTrade",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/sogotrade/apis.yaml"
+		},
+		{
+			"name": "Clover",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/clover/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/plentymarkets/apis.yaml"
+		},
+		{
+			"name": "Xibo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/stocks/master/_listings/xibo/apis.yaml"
+		}
+	]
+}
